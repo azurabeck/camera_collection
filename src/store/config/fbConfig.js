@@ -4,13 +4,13 @@ import 'firebase/auth'
 
 // Initialize Firebase
 const config = {
-    apiKey: "AIzaSyCWLvbrM29HLESaJLHMyz22SJ9OdmHEuf0",
-    authDomain: "cameracollection-8a052.firebaseapp.com",
-    databaseURL: "https://cameracollection-8a052.firebaseio.com",
-    projectId: "cameracollection-8a052",
+    apiKey: "AIzaSyBzkPWudne_DcJb3uN0aDS10AWdC2KRCwk",
+    authDomain: "camera-collection.firebaseapp.com",
+    databaseURL: "https://camera-collection.firebaseio.com",
+    projectId: "camera-collection",
     storageBucket: "",
-    messagingSenderId: "1087271557545",
-    appId: "1:1087271557545:web:8d5790d09ba1e9ce"
+    messagingSenderId: "949834010742",
+    appId: "1:949834010742:web:e2bde687ea6febd9"
 };
   
 firebase.initializeApp(config);
