@@ -3,6 +3,7 @@ import { connect } from 'react-redux'
 import { Redirect } from 'react-router-dom'
 
 import Navbar from '../elements/navbar'
+import Carousel from '../elements/carousel'
 
 class Dashboard extends Component {
     
@@ -13,6 +14,11 @@ class Dashboard extends Component {
         return (
             <section className='cc_dashboard'>
                 <Navbar/>
+                <Carousel/>
+
+
+
+
             </section>
             
         )

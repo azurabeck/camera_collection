@@ -1,3 +1,3 @@
-import './dashboard.css'
+import './elements.css'
 import './index.css'
 import './login.css'
