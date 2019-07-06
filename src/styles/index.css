@@ -17,3 +17,7 @@ code {
 .row {
   margin: 0
 }
+
+#active {
+  background-color: #D69D0D
+}

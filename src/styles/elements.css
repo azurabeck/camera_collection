@@ -8,15 +8,10 @@
 }
 .cc_carousel_img {
     padding: 0px;
-    /*background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3DCMdu8pCzO64_juxXXWCN8f0WHV8Up3Pr4cOYqAaUNCiRl');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyE3DCMdu8pCzO64_juxXXWCN8f0WHV8Up3Pr4cOYqAaUNCiRl');
     background-repeat: no-repeat;
     background-size: cover; 
-    background-position: center;*/
-}
-.cc_carousel_img > img {
-    object-fit: cover;
-    width: 100%;
-    height: 330px;
+    background-position: center;
 }
 
 .cc_carousel_btn {
